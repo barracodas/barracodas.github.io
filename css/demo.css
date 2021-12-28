@@ -12,7 +12,7 @@
 img {
   position: absolute;
   left: 0px;
-  top: -60px;
+  top: 0px;
   align="left";
   z-index: -1;
 }
