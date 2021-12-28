@@ -12,7 +12,7 @@
 img {
   position: absolute;
   left: 0px;
-  top: 40px;
+  top: -40px;
   z-index: -1;
 }
 /* CSS reset */
